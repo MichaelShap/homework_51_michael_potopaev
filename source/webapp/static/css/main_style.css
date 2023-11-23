@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 0;
+}
+
+h4 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
